@@ -1,0 +1,13 @@
+{
+    "name": "root/workspace",
+    "authors": [
+        {
+            "name": "Adam Camacho",
+            "email": "adamcamacho8@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "~1.13",
+        "slim/slim": "~2.6"
+    }
+}
